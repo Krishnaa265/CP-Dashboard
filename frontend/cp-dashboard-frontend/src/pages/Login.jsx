@@ -4,10 +4,8 @@ function Login() {
   const navigate = useNavigate()
 
   const handleLogin = () => {
-    // set login flag
     localStorage.setItem("isLoggedIn", "true")
 
-    // navigate to dashboard
     navigate("/dashboard")
   }
 
