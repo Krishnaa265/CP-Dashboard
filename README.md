@@ -46,23 +46,6 @@ Codeforces Public API
 
 LeetCode GraphQL API
 
-# Project Structure
-cp-dashboard/
-│
-├── backend/
-│   └── server.js
-│
-├── frontend/
-│   └── cp-dashboard-frontend/
-│       ├── src/
-│       │   ├── pages/
-│       │   │   ├── Login.jsx
-│       │   │   └── Dashboard.jsx
-│       │   └── App.jsx
-│       └── package.json
-│
-└── README.md
-
 # Setup Instructions
 Prerequisites
 
