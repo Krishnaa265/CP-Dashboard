@@ -3,7 +3,7 @@
 A full-stack web application that aggregates competitive programming statistics from Codeforces and LeetCode into a single dashboard with visual insights.
 
 # Features
-
+ 
 User login with protected dashboard
 
 Fetches live data from:
