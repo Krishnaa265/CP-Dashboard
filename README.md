@@ -20,6 +20,7 @@ Clean and responsive UI built with Tailwind CSS
 
 Backend API built with Node.js and Express
 
+
 # Tech Stack
 
 Frontend
