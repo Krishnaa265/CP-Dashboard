@@ -7,7 +7,7 @@ A full-stack web application that aggregates competitive programming statistics 
 User login with protected dashboard
 
 Fetches live data from:
-
+ 
 Codeforces (rating, rank, max rating, contest count)
 
 LeetCode (total solved, easy/medium/hard breakdown, ranking)
